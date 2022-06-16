@@ -48,8 +48,8 @@
 
 <h3> 👩‍💻: &nbsp;Atividades Recentes: </h3>
 
-  [![carmodurante](https://github-readme-stats.vercel.app/api?username=carmodurante&theme=dark)](https://github.com/carmodurante/)
-  [![carmodurante](https://github-readme-stats.vercel.app/api/top-langs/?username=carmodurante&hide=html&layout=compact&theme=dark)](https://github.com/carmodurante/)
+    [![carmodurante](https://github-readme-stats.vercel.app/api?username=carmodurante&theme=dark)](https://github.com/carmodurante/)
+    [![carmodurante](https://github-readme-stats.vercel.app/api/top-langs/?username=carmodurante&hide=html&layout=compact&theme=dark)](https://github.com/carmodurante/)
 
   ![Snake animation](https://github.com/carmodurante/carmodurante/blob/output/github-contribution-grid-snake.svg)
 <br/>  
