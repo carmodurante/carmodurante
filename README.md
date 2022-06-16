@@ -44,13 +44,10 @@
 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=007ACC)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=007ACC)
-  
 <br/>
 
-<a href="https://github.com/carmodurante">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carmodurante&theme=dracula&show_icons=true" />
-</a>
-
+[![iuricode](https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark)](https://github.com/iuricode/)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=dark)](https://github.com/iuricode/)
 <br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
