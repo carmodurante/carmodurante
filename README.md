@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 ![](https://komarev.com/ghpvc/?username=carmodurante&color=006bed)
 
 <h3> :mage_man: &nbsp;Sobre mim </h3>
@@ -10,7 +7,7 @@
 - 💼 &nbsp; Trabalhando como **Consultor SAP ABAP Sênior** na <a href="https://www.castgroup.com.br/pt/">Cast Group</a>
 - 🌱 &nbsp; Aprendendo mais sobre **Python**.
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp;Minhas Skills e Tecnologias com que trabalho</h3>
 
 **Aplicações e Dados**
   
@@ -46,6 +43,11 @@
   ![Azure Pipelines](https://img.shields.io/badge/-Azure%20Pipelines-333333?style=flat&logo=azurepipelines&logoColor=007ACC)
   ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-333333?style=flat&logo=azuredevops&logoColor=007ACC)
 
+**Tecnologias que estou estudando atualmente**
+
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=007ACC)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=007ACC)
+  
 <br/>
 
 <a href="https://github.com/carmodurante">
