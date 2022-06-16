@@ -46,13 +46,12 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=007ACC)
 <br/>
 
-[![iuricode](https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark)](https://github.com/iuricode/)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=dark)](https://github.com/iuricode/)
-<br/>
+<h3> 👩‍💻: &nbsp;Atividades Recentes: </h3>
+[![carmodurante](https://github-readme-stats.vercel.app/api?username=carmodurante&theme=dark)](https://github.com/carmodurante/)
+[![carmodurante](https://github-readme-stats.vercel.app/api/top-langs/?username=carmodurante&hide=html&layout=compact&theme=dark)](https://github.com/carmodurante/)
+![Snake animation](https://github.com/carmodurante/carmodurante/blob/output/github-contribution-grid-snake.svg)
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-
-![Snake animation](https://github.com/carmodurante/carmodurante/blob/output/github-contribution-grid-snake.svg)
 
 [![Linkedin: Carmo Durante Neto](https://img.shields.io/badge/-CarmoDuranteNeto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carmo-durante-neto/)](https://www.linkedin.com/in/carmo-durante-neto/)
 [![Gmail Badge](https://img.shields.io/badge/-carmo.durante@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carmo.durante@gmail.com)](mailto:carmo.durante@gmail.com)
