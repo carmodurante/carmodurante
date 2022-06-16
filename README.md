@@ -50,11 +50,12 @@
 </a>
 
 <br/>
-![Snake animation](https://github.com/carmodurante/carmodurante/blob/output/github-contribution-grid-snake.svg)
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carmo-durante-neto/)](https://www.linkedin.com/in/carmo-durante-neto/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carmo.durante@gmail.com)](mailto:carmo.durante@gmail.com)
-[![GitHub carmodurante]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/carmodurante/)
+![Snake animation](https://github.com/carmodurante/carmodurante/blob/output/github-contribution-grid-snake.svg)
+
+[![Linkedin: Carmo Durante Neto](https://img.shields.io/badge/-CarmoDuranteNeto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carmo-durante-neto/)](https://www.linkedin.com/in/carmo-durante-neto/)
+[![Gmail Badge](https://img.shields.io/badge/-carmo.durante@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carmo.durante@gmail.com)](mailto:carmo.durante@gmail.com)
+[![GitHub carmodurante]( https://img.shields.io/github/followers/carmodurante?label=follow&style=social)](https://github.com/carmodurante/)
 
