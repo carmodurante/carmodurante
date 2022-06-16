@@ -36,6 +36,7 @@
   ![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
 
 **Ferramentas de Desenvolvimento**
+
   ![PyCharm](https://img.shields.io/badge/-pycharm-333333?style=flat&logo=pycharm&logoColor=007ACC)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![SAP HANA Studio](https://img.shields.io/badge/-SAP%20HANA%20Studio-333333?style=flat&logo=sap&logoColor=007ACC)
