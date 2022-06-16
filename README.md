@@ -24,7 +24,8 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 **Utilidades**
- 
+
+  ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 **DevOps**
@@ -37,7 +38,7 @@
 
 **Ferramentas de Desenvolvimento**
 
-  ![PyCharm](https://img.shields.io/badge/-pycharm-333333?style=flat&logo=pycharm&logoColor=007ACC)
+  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=007ACC)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![SAP HANA Studio](https://img.shields.io/badge/-SAP%20HANA%20Studio-333333?style=flat&logo=sap&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
