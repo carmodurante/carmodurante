@@ -7,7 +7,7 @@
 <h3> :mage_man: &nbsp;Sobre mim: </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Desenvolvedor Full Stack** na <a href="https://estacio.br/cursos/graduacao/desenvolvimento-full-stack">Estácio</a>.
+- 🎓 &nbsp; Estudando **Desenvolvimento Full Stack** na <a href="https://estacio.br/cursos/graduacao/desenvolvimento-full-stack">Estácio</a>.
 - 💼 &nbsp; Trabalhando como **Consultor SAP ABAP Sênior** na <a href="https://www.castgroup.com.br/pt/">Cast Group</a>
 - 🌱 &nbsp; Aprendendo mais sobre **Python**.
 
