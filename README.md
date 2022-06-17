@@ -1,3 +1,7 @@
+<p align="center"><a href="https://www.linkedin.com/in/carmo-durante-neto"><img width="80%" alt="Olá! Eu sou o Carmo Durante Neto" src="./assets/cdn-readme-header.png" /></a></p>
+
+<br />
+
 ![](https://komarev.com/ghpvc/?username=carmodurante&color=006bed)
 
 <h3> :mage_man: &nbsp;Sobre mim: </h3>
@@ -49,7 +53,7 @@
 <h3> 👨‍💻 &nbsp;Atividades Recentes: </h3>
 
    [![carmodurante](https://github-readme-stats.vercel.app/api?username=carmodurante&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/carmodurante/)
-   [![carmodurante](https://github-readme-stats.vercel.app/api/top-langs/?username=carmodurante&hide=html&layout=compact&langs_count=16&theme=dark)](https://github.com/carmodurante/)
+   [![carmodurante](https://github-readme-stats.vercel.app/api/top-langs/?username=carmodurante&layout=compact&langs_count=16&theme=dark)](https://github.com/carmodurante/)
 
   ![Snake animation](https://github.com/carmodurante/carmodurante/blob/output/github-contribution-grid-snake.svg)
 <br/>  
