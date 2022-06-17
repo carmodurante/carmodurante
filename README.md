@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.linkedin.com/in/carmo-durante-neto"><img width="80%" alt="Olá! Eu sou o Carmo Durante Neto" src="./assets/cdn-readme-header.png" /></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/carmo-durante-neto"><img width="80%" alt="Olá! Eu sou o Carmo Durante Neto" src="./imagens/cdn-readme-header.gif" /></a></p>
 
 <br />
 
