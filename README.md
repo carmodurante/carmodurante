@@ -1,7 +1,3 @@
-<p align="center"><a href="https://www.linkedin.com/in/carmo-durante-neto"><img width="80%" alt="Olá! Eu sou o Carmo Durante Neto" src="./imagens/cdn.png" /></a></p>
-
-<br />
-
 ![](https://komarev.com/ghpvc/?username=carmodurante&color=006bed)
 
 <h3> :mage_man: &nbsp;Sobre mim: </h3>
