@@ -3,8 +3,8 @@
 <h3> :mage_man: &nbsp;Sobre mim: </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Desenvolvimento Full Stack** na <a href="https://estacio.br/cursos/graduacao/desenvolvimento-full-stack">Estácio</a>.
-- 💼 &nbsp; Trabalhando como **Consultor SAP ABAP|HANA Sênior**
+- 🎓 &nbsp; Estudando **Desenvolvimento Full Stack**.
+- 💼 &nbsp; Trabalhando como **Consultor SAP ABAP|HANA Sênior**.
 - 🌱 &nbsp; Aprendendo mais sobre **Python**.
 
 <h3> :rocket: &nbsp;Minhas Skills e Tecnologias com que trabalho:</h3>
