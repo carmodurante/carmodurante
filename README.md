@@ -48,10 +48,8 @@
 
 <h3> 👨‍💻 &nbsp;Atividades Recentes: </h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=carmodurante" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=dracula&hide_border=false&username=carmodurante" height="150" alt="languages graph"  />
-</div>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=carmodurante&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Carmo Status" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carmodurante&layout=compact&theme=dracula&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
   ![Snake animation](https://github.com/carmodurante/carmodurante/blob/output/github-contribution-grid-snake.svg)
