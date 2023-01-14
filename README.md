@@ -48,7 +48,7 @@
 
 <h3> 👨‍💻 &nbsp;Atividades Recentes: </h3>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=carmodurante&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Carmo Status" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carmodurante&layout=compact&theme=dracula&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=carmodurante&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Carmo Status" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=carmodurante&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
