@@ -44,8 +44,6 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![SAP Fiori](https://img.shields.io/badge/-SAP%20Fiori-333333?style=flat&logo=sap)
   ![SAP UI5](https://img.shields.io/badge/-SAP%20UI5-333333?style=flat&logo=sap)
-  
-<br/>
 
 <h3> 👨‍💻 &nbsp;Atividades Recentes: </h3>
 
