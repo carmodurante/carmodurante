@@ -44,13 +44,11 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![SAP Fiori](https://img.shields.io/badge/-SAP%20Fiori-333333?style=flat&logo=sap)
   ![SAP UI5](https://img.shields.io/badge/-SAP%20UI5-333333?style=flat&logo=sap)
-
+  
 <h3> 👨‍💻 &nbsp;Atividades Recentes: </h3>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=carmodurante&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Carmo Status" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=carmodurante&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-
   ![Snake animation](https://github.com/carmodurante/carmodurante/blob/output/github-contribution-grid-snake.svg)
 <br/>  
 
