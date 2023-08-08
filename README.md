@@ -49,10 +49,6 @@
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=carmodurante&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Carmo Status" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=carmodurante&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-
-
-  ![Snake animation](https://github.com/carmodurante/carmodurante/blob/output/github-contribution-grid-snake.svg)
 <br/>
 
 <picture>
@@ -62,9 +58,15 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[github-snake-dark.svg](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)" />
-  <source media="(prefers-color-scheme: light)" srcset="[github-snake.svg](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/carmodurante/carmodurante/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/carmodurante/carmodurante/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carmodurante/carmodurante/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carmodurante/carmodurante/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/carmodurante/carmodurante/output/github-contribution-grid-snake.svg">
 </picture>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
