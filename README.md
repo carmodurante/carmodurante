@@ -59,6 +59,5 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Carmo Durante Neto](https://img.shields.io/badge/-CarmoDuranteNeto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carmo-durante-neto/)](https://www.linkedin.com/in/carmo-durante-neto/)
-[![Gmail Badge](https://img.shields.io/badge/-carmo.durante@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carmo.durante@gmail.com)](mailto:carmo.durante@gmail.com)
 [![GitHub carmodurante]( https://img.shields.io/github/followers/carmodurante?label=follow&style=social)](https://github.com/carmodurante/)
 
