@@ -4,7 +4,6 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções para empresas.
 - 🎓 &nbsp; Estudando **SAP Cloud e Inteligência Artificial**.
-- 💼 &nbsp; Trabalhando como **Consultor SAP ABAP FIORI Sênior**.
 - 🌱 &nbsp; Aprendendo mais sobre **IA**.
 
 <h3> :rocket: &nbsp;Minhas Skills e Tecnologias com que trabalho:</h3>
